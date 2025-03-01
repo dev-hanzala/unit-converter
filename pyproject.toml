@@ -1,0 +1,10 @@
+[project]
+name = "unit-converter"
+version = "0.1.0"
+description = "A unit converter app created in Streamlit."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=1.3.0",
+    "streamlit>=1.42.2",
+]
